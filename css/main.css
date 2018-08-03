@@ -1,0 +1,24 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: #000000;
+}
+
+img {
+    width: 150px;
+    height: 100px;
+    margin: 3px;
+    float: left;
+}
+
+.elemento {
+    margin:0%;
+    padding:0%;
+}
+
+#elementos .elemento a{
+    font-size: 0px;
+}
